@@ -1,4 +1,4 @@
-  getgenv().Config = {
+                    getgenv().Config = {
 			["Hide"] = true,
 			["WhiteScreen"] = false, 
 			["Fps Boost"] = true,
