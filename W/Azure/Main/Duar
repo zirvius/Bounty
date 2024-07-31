@@ -1,4 +1,4 @@
-    getgenv().SpamSkill = false
+                getgenv().SpamSkill = false
 		getgenv().AutoUseRaceV3 = true
 		getgenv().AutoUseRacev4 = true
 		getgenv().SpamSkillOnRaceV4 = true
